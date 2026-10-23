@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "CloudSync Enterprise Migration",
+    "status": "active",
+    "overview": "Migrating legacy on-premise compute and data stores into an automated multi-region AWS Kubernetes architecture with 99.99% SLA.",
+    "team": ["Sarah Chen", "Marcus Rodriguez", "Elena Rostova", "Devon Vance"],
+    "tasks": [
+      "Bootstrap Terraform modules for multi-region VPC",
+      "Configure ArgoCD GitOps pipeline for production cluster",
+      "Cutover batch transaction processing service",
+      "Conduct chaos engineering DR simulation drill"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "OmniAssist: Generative AI Customer Suite",
+    "status": "active",
+    "overview": "Building an enterprise-grade multimodal AI assistant for tier-1 support ticket resolution with real-time knowledge retrieval (RAG).",
+    "team": ["Dr. Aris Thorne", "Maya Lin", "Julian Becker", "Priya Sharma"],
+    "tasks": [
+      "Implement streaming response renderer in Next.js",
+      "Index internal help center documents into vector store",
+      "Build live human escalation fallback workflow",
+      "A/B test prompt guardrails on adversarial inputs"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pulse Mobile Experience Redesign",
+    "status": "completed",
+    "overview": "Complete UX and visual overhaul of the flagship iOS and Android mobile apps with modern design tokens, haptics, and micro-interactions.",
+    "team": ["Chloe Dupont", "Liam Gallagher", "Ananya Roy"],
+    "tasks": [
+      "Finalize bottom sheet interaction physics",
+      "Audit WCAG 2.1 AA color contrast for Dark Mode",
+      "Release Public Beta to TestFlight & Google Play Testing"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Zero Trust CyberShield & IAM Overhaul",
+    "status": "active",
+    "overview": "Deploying universal passwordless WebAuthn authentication, device posture verification, and micro-segmentation across company networks.",
+    "team": ["Nathaniel Drake", "Zara Patel", "Kenji Sato"],
+    "tasks": [
+      "Configure Okta FastPass and WebAuthn policies",
+      "Deploy HashiCorp Vault dynamic secret engine",
+      "Third-party network penetration testing kickoff"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "InsightFlow Real-time Analytics Hub",
+    "status": "on-hold",
+    "overview": "Unified modern data stack powering streaming executive dashboards, cohort analytics, and automated financial forecasting.",
+    "team": ["David O'Connor", "Fatima Al-Mansoor", "Toby Henderson"],
+    "tasks": [
+      "Define dbt semantic models for revenue and MRR attribution",
+      "Build interactive drill-down cohort heatmap component",
+      "Set up Kafka dead-letter queue and replay consumer"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "EcoTrack Carbon Footprint Dashboard",
+    "status": "completed",
+    "overview": "Automated greenhouse gas (GHG) Scope 1, 2, and 3 emissions calculator tracking data center, office, and business travel footprint.",
+    "team": ["Greta Lindqvist", "Kofi Mensah"],
+    "tasks": [
+      "Connect AWS Customer Carbon Footprint API",
+      "Implement automated PDF report generation"
+    ]
+  }
+]
